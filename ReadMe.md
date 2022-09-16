@@ -1,3 +1,5 @@
+#https://app.patika.dev/
+
 # ALGORİTMALAR PROJE 1 (INSERTION SORT)
 
 ## SORU 1
