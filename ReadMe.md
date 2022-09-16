@@ -1,4 +1,4 @@
-#https://app.patika.dev/
+# https://app.patika.dev/
 
 # ALGORİTMALAR PROJE 1 (INSERTION SORT)
 
